@@ -4,7 +4,7 @@
 
 ## Topics of Study
 
-- [컴퓨터 구조 & 운영체제](https://github.com/seulchan/cs_study/blob/main/os/README.md)
-- [네트워크](https://github.com/seulchan/cs_study/blob/main/network/README.md)
-- [데이터베이스](https://github.com/seulchan/cs_study/blob/main/database/README.md)
+- [컴퓨터 구조 & 운영체제-예정]
+- [네트워크](https://github.com/kaylee125/cs_study/tree/master/Network)
+- [데이터베이스-예정]
 
